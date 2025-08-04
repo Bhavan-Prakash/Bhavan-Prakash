@@ -3,8 +3,6 @@
 👋 Hello there!
 Welcome to my GitHub repository! I am a versatile developer with expertise in mobile and web development, specializing in AI-powered solutions, e-commerce platforms, and real-time processing systems. This repository showcases my key projects, skills, and contributions across multiple domains.
 
-![Bhavan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavanprakash&theme=react-dark&hide_border=true&area=true)
-
 
 ## Skills
 
